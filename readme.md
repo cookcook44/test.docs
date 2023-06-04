@@ -8,8 +8,8 @@ console.log(a);
 
 ```mermaid
 flowchart TB
-A["테스트"]
-B["테스트"]
-A --> B
-B --test--> A
+ A["테스트"]
+ B["테스트"]
+ A --> B
+ B --test--> A
 ```
