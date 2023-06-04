@@ -4,5 +4,4 @@
 
 ```mermaid
 flowchart TB
-  a --> b
-```
+ a --> b
